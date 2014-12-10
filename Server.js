@@ -66,4 +66,4 @@ server.on('close', function(){
 
 server.listen(port); // go to terminal and telnet to localhost:port
 
-// telnet localhost:port
+// telnet localhost port
